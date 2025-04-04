@@ -1,6 +1,6 @@
-##Restaurant Review Management System
+Restaurant Review Management System
 
-#Overview
+Overview
 
 This program implements a restaurant review management system using a hash table and priority queue to store and manage reviews efficiently. Users can add reviews, retrieve the most recent review, remove the most recent review, and view all reviews for a restaurant. The program also provides options to view hash table statistics like the number of collisions.
 
